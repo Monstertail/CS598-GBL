@@ -154,3 +154,4 @@ dmypy.json
 *.pt
 flowmol/data/qm9/
 flowmol/data/qm9/test_data_marginal_dists.pt
+flowmol/data/qm9/test_data_marginal_dists.pt
